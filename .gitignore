@@ -1,5 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+*.pyc
 *.py[codz]
 *$py.class
 
@@ -77,6 +78,10 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+
+# Data
+data/raw/
+data/processed/
 
 # IPython
 profile_default/
